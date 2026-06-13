@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+.DS_Store
+.streamlit/secrets.toml
+
+# Large fine-tuned transformer weights (~436MB) — distribute via
+# Hugging Face Hub or Git LFS, NOT regular Git.
+models/camelbert-finetuned/
+
+# Large raw ArSarcasm CSVs — download via the README instructions.
+data/arsarcasm_train.csv
+data/arsarcasm_test.csv
+data/arsarcasm_test_raw.csv
+
+# NOTE: models/dialect_detector.joblib (~3MB) IS committed on purpose,
+# so dialect detection works immediately after cloning.
+data/training_data.csv
+data/testing_data.csv
