@@ -8,8 +8,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<!-- After deploying, replace with your live link:
-🔴 **Live demo:** https://huggingface.co/spaces/<your-username>/dialectal-arabic-sentiment-analyzer -->
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face_Spaces-ff6b6b?style=for-the-badge)](https://huggingface.co/spaces/shaden55/dialectal-arabic-sentiment-analyzer)
+
+🔴 **Try it live · جرّبه الآن:** https://huggingface.co/spaces/shaden55/dialectal-arabic-sentiment-analyzer
 
 ---
 
